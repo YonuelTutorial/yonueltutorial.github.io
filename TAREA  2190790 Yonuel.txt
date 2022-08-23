@@ -1,0 +1,7 @@
+Registrate en un hosting gratuito o de pago (si prefieres), crea una carpeta llamada my_cv donde aparecera tu curriculum (el de la tarea 1) cuando sea digitado en el navegador. 
+
+Ejemplo, si registras: 
+
+http://adamix.comun.net   debes enviar la dirección http://adamix.comun.net/my_cv y ahi aparecera tu curriculum mostrando la información requerida.
+
+Puedes usar github o cualquier otro que te permita colocar tu cv en linea.
